@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android-projects/AllInOneStatusSaver/app/src/main/res/drawable/circle.xml" value="0.2203125" />
+        <entry key="..\:/android-projects/AllInOneStatusSaver/app/src/main/res/drawable/et_back.xml" value="0.2203125" />
+        <entry key="..\:/android-projects/AllInOneStatusSaver/app/src/main/res/drawable/ic_play_circle_filled_black_24dp.xml" value="0.1" />
+        <entry key="..\:/android-projects/AllInOneStatusSaver/app/src/main/res/drawable/rectangle.xml" value="0.1" />
+        <entry key="..\:/android-projects/AllInOneStatusSaver/app/src/main/res/drawable/selected_tab.xml" value="0.1" />
+        <entry key="..\:/android-projects/AllInOneStatusSaver/app/src/main/res/drawable/tab_rect.xml" value="1.332142857142857" />
+        <entry key="..\:/android-projects/AllInOneStatusSaver/app/src/main/res/drawable/tab_selector.xml" value="0.1" />
+        <entry key="..\:/android-projects/AllInOneStatusSaver/app/src/main/res/drawable/tab_text_selector.xml" value="0.1" />
+        <entry key="..\:/android-projects/AllInOneStatusSaver/app/src/main/res/drawable/whatsapp_logo.xml" value="0.2203125" />
+        <entry key="..\:/android-projects/AllInOneStatusSaver/app/src/main/res/layout/activity_facebook.xml" value="0.33" />
+        <entry key="..\:/android-projects/AllInOneStatusSaver/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/android-projects/AllInOneStatusSaver/app/src/main/res/layout/activity_share_chat.xml" value="0.13836477987421383" />
+        <entry key="..\:/android-projects/AllInOneStatusSaver/app/src/main/res/layout/activity_whatsapp.xml" value="0.1" />
+        <entry key="..\:/android-projects/AllInOneStatusSaver/app/src/main/res/layout/custom_tab.xml" value="0.1" />
+        <entry key="..\:/android-projects/AllInOneStatusSaver/app/src/main/res/layout/fragment_image.xml" value="0.13949275362318841" />
+        <entry key="..\:/android-projects/AllInOneStatusSaver/app/src/main/res/layout/fragment_video.xml" value="0.13949275362318841" />
+        <entry key="..\:/android-projects/AllInOneStatusSaver/app/src/main/res/layout/whatsapp_item_layout.xml" value="0.22" />
+        <entry key="..\:/android-projects/AllInOneStatusSaver/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2111111111111111" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
